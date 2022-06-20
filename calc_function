@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        div{
+    height:300px;
+    width:400px;
+    background-color:burlywood;
+    position:relative;
+}
+p{
+    font-size:20px;
+    color:red;
+    text-align:justify;
+    margin-right:100px;
+}
+img{
+    height:50px;
+    width:50px;
+    position:absolute;
+    top:calc((100%-50px)/2);
+    
+    
+    left:325px;
+}
+</style>
+    
+</head>
+<body>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, tempore repudiandae voluptate soluta aliquam dignissimos minima sunt ducimus consequatur saepe aliquid? Repellat nemo culpa autem quia in exercitationem qui vel iste consequuntur, laboriosam voluptates dolore cupiditate, non amet similique aut corporis reprehenderit molestiae! Ratione, dicta libero delectus exercitationem quidem eaque!
+
+        </p>
+        <img src="https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?cs=srgb&dl=pexels-pixabay-60597.jpg&fm=jpg">
+    </div>
+    
+</body>
+</html>
