@@ -1,0 +1,10 @@
+@font-face {
+    src: url(C:\Users\Administrator\Desktop\fonts\Montserrat,Roboto\Montserrat\static);
+    font-family:Montserrat Black;
+
+}
+h1 {
+    font-size:25px;
+    line-height:50px;
+    font-family:Montserrat Black;
+}

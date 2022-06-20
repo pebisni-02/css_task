@@ -1,0 +1,17 @@
+div{
+    height:350px;
+    width:400px;
+    background-color: black;
+    position:relative;
+}
+p{
+    font-size:20px;
+    color:red;
+}
+img{
+    height:50px;
+    width:50px;
+    top:calc((100%-50px)/2);
+    position:absolute;
+    left:300px;
+}
